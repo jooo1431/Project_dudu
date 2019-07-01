@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 3465e38f0bca0bb47ae502ce53a68dd0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base-Recta
+    100002: //RootNode
+    100004: 'Cord Cord '
+    100006: Cord Cord0
+    100008: Handle-Ro0
+    100010: Handle-Rou
+    100012: 'Rail Rail '
+    100014: Slat-Rec10
+    100016: Slat-Rec11
+    100018: Slat-Rec12
+    100020: Slat-Rec13
+    100022: Slat-Rec14
+    100024: Slat-Rec15
+    100026: Slat-Rec16
+    100028: Slat-Rec17
+    100030: Slat-Rec18
+    100032: Slat-Rec19
+    100034: Slat-Rec20
+    100036: Slat-Rec21
+    100038: Slat-Rec22
+    100040: Slat-Rec23
+    100042: Slat-Rec24
+    100044: Slat-Rec25
+    100046: Slat-Rec26
+    100048: Slat-Rec27
+    100050: Slat-Rec28
+    100052: Slat-Rec29
+    100054: Slat-Rec30
+    100056: Slat-Rec31
+    100058: Slat-Rec32
+    100060: Slat-Rec33
+    100062: Slat-Rec34
+    100064: Slat-Rec35
+    100066: Slat-Rec36
+    100068: Slat-Rec37
+    100070: Slat-Rec38
+    100072: Slat-Rec39
+    100074: Slat-Rec40
+    100076: Slat-Rec41
+    100078: Slat-Rec42
+    100080: Slat-Rec43
+    100082: Slat-Rec44
+    100084: Slat-Rect0
+    100086: Slat-Rect1
+    100088: Slat-Rect2
+    100090: Slat-Rect3
+    100092: Slat-Rect4
+    100094: Slat-Rect5
+    100096: Slat-Rect6
+    100098: Slat-Rect7
+    100100: Slat-Rect8
+    100102: Slat-Rect9
+    100104: Slat-Recta
+    100106: Strings-W0
+    100108: Strings-W1
+    100110: Strings-Wi
+    400000: Base-Recta
+    400002: //RootNode
+    400004: 'Cord Cord '
+    400006: Cord Cord0
+    400008: Handle-Ro0
+    400010: Handle-Rou
+    400012: 'Rail Rail '
+    400014: Slat-Rec10
+    400016: Slat-Rec11
+    400018: Slat-Rec12
+    400020: Slat-Rec13
+    400022: Slat-Rec14
+    400024: Slat-Rec15
+    400026: Slat-Rec16
+    400028: Slat-Rec17
+    400030: Slat-Rec18
+    400032: Slat-Rec19
+    400034: Slat-Rec20
+    400036: Slat-Rec21
+    400038: Slat-Rec22
+    400040: Slat-Rec23
+    400042: Slat-Rec24
+    400044: Slat-Rec25
+    400046: Slat-Rec26
+    400048: Slat-Rec27
+    400050: Slat-Rec28
+    400052: Slat-Rec29
+    400054: Slat-Rec30
+    400056: Slat-Rec31
+    400058: Slat-Rec32
+    400060: Slat-Rec33
+    400062: Slat-Rec34
+    400064: Slat-Rec35
+    400066: Slat-Rec36
+    400068: Slat-Rec37
+    400070: Slat-Rec38
+    400072: Slat-Rec39
+    400074: Slat-Rec40
+    400076: Slat-Rec41
+    400078: Slat-Rec42
+    400080: Slat-Rec43
+    400082: Slat-Rec44
+    400084: Slat-Rect0
+    400086: Slat-Rect1
+    400088: Slat-Rect2
+    400090: Slat-Rect3
+    400092: Slat-Rect4
+    400094: Slat-Rect5
+    400096: Slat-Rect6
+    400098: Slat-Rect7
+    400100: Slat-Rect8
+    400102: Slat-Rect9
+    400104: Slat-Recta
+    400106: Strings-W0
+    400108: Strings-W1
+    400110: Strings-Wi
+    2100000: 'Material #26'
+    2100002: 'Material #36'
+    2100004: 'Material #46'
+    2100006: 'Material #76'
+    2100008: 'Material #86'
+    2100010: 'Material #116'
+    2100012: 'Material #126'
+    2100014: 'Material #136'
+    2100016: 'Material #506'
+    2300000: Base-Recta
+    2300002: 'Cord Cord '
+    2300004: Cord Cord0
+    2300006: Handle-Ro0
+    2300008: Handle-Rou
+    2300010: 'Rail Rail '
+    2300012: Slat-Rec10
+    2300014: Slat-Rec11
+    2300016: Slat-Rec12
+    2300018: Slat-Rec13
+    2300020: Slat-Rec14
+    2300022: Slat-Rec15
+    2300024: Slat-Rec16
+    2300026: Slat-Rec17
+    2300028: Slat-Rec18
+    2300030: Slat-Rec19
+    2300032: Slat-Rec20
+    2300034: Slat-Rec21
+    2300036: Slat-Rec22
+    2300038: Slat-Rec23
+    2300040: Slat-Rec24
+    2300042: Slat-Rec25
+    2300044: Slat-Rec26
+    2300046: Slat-Rec27
+    2300048: Slat-Rec28
+    2300050: Slat-Rec29
+    2300052: Slat-Rec30
+    2300054: Slat-Rec31
+    2300056: Slat-Rec32
+    2300058: Slat-Rec33
+    2300060: Slat-Rec34
+    2300062: Slat-Rec35
+    2300064: Slat-Rec36
+    2300066: Slat-Rec37
+    2300068: Slat-Rec38
+    2300070: Slat-Rec39
+    2300072: Slat-Rec40
+    2300074: Slat-Rec41
+    2300076: Slat-Rec42
+    2300078: Slat-Rec43
+    2300080: Slat-Rec44
+    2300082: Slat-Rect0
+    2300084: Slat-Rect1
+    2300086: Slat-Rect2
+    2300088: Slat-Rect3
+    2300090: Slat-Rect4
+    2300092: Slat-Rect5
+    2300094: Slat-Rect6
+    2300096: Slat-Rect7
+    2300098: Slat-Rect8
+    2300100: Slat-Rect9
+    2300102: Slat-Recta
+    2300104: Strings-W0
+    2300106: Strings-W1
+    2300108: Strings-Wi
+    3300000: Base-Recta
+    3300002: 'Cord Cord '
+    3300004: Cord Cord0
+    3300006: Handle-Ro0
+    3300008: Handle-Rou
+    3300010: 'Rail Rail '
+    3300012: Slat-Rec10
+    3300014: Slat-Rec11
+    3300016: Slat-Rec12
+    3300018: Slat-Rec13
+    3300020: Slat-Rec14
+    3300022: Slat-Rec15
+    3300024: Slat-Rec16
+    3300026: Slat-Rec17
+    3300028: Slat-Rec18
+    3300030: Slat-Rec19
+    3300032: Slat-Rec20
+    3300034: Slat-Rec21
+    3300036: Slat-Rec22
+    3300038: Slat-Rec23
+    3300040: Slat-Rec24
+    3300042: Slat-Rec25
+    3300044: Slat-Rec26
+    3300046: Slat-Rec27
+    3300048: Slat-Rec28
+    3300050: Slat-Rec29
+    3300052: Slat-Rec30
+    3300054: Slat-Rec31
+    3300056: Slat-Rec32
+    3300058: Slat-Rec33
+    3300060: Slat-Rec34
+    3300062: Slat-Rec35
+    3300064: Slat-Rec36
+    3300066: Slat-Rec37
+    3300068: Slat-Rec38
+    3300070: Slat-Rec39
+    3300072: Slat-Rec40
+    3300074: Slat-Rec41
+    3300076: Slat-Rec42
+    3300078: Slat-Rec43
+    3300080: Slat-Rec44
+    3300082: Slat-Rect0
+    3300084: Slat-Rect1
+    3300086: Slat-Rect2
+    3300088: Slat-Rect3
+    3300090: Slat-Rect4
+    3300092: Slat-Rect5
+    3300094: Slat-Rect6
+    3300096: Slat-Rect7
+    3300098: Slat-Rect8
+    3300100: Slat-Rect9
+    3300102: Slat-Recta
+    3300104: Strings-W0
+    3300106: Strings-W1
+    3300108: Strings-Wi
+    4300000: 'Rail Rail '
+    4300002: Base-Recta
+    4300004: Slat-Recta
+    4300006: Slat-Rect2
+    4300008: Slat-Rect3
+    4300010: 'Cord Cord '
+    4300012: Cord Cord0
+    4300014: Strings-Wi
+    4300016: Handle-Rou
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

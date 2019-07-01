@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 31e1966a07543a243b6c5d3bd033af5b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bateria_u1
+    100002: bateria_um
+    100004: blat
+    100006: Cube
+    100008: Cube_002
+    100010: Cube_003
+    100012: Cube_008
+    100014: Cube_019
+    100016: gniazdo
+    100018: gniazdo_00
+    100020: kafelki_um
+    100022: szafka
+    100024: umywalka
+    100026: umywalka_0
+    100028: //RootNode
+    400000: bateria_u1
+    400002: bateria_um
+    400004: blat
+    400006: Cube
+    400008: Cube_002
+    400010: Cube_003
+    400012: Cube_008
+    400014: Cube_019
+    400016: gniazdo
+    400018: gniazdo_00
+    400020: kafelki_um
+    400022: szafka
+    400024: umywalka
+    400026: umywalka_0
+    400028: //RootNode
+    2100000: _porcelana_s
+    2100002: _mydlo
+    2100004: _concretebet
+    2100006: _metal
+    2100008: _listwa_biel
+    2100010: _cabinet_glo
+    2100012: Explorer_Default
+    2300000: bateria_u1
+    2300002: bateria_um
+    2300004: blat
+    2300006: Cube
+    2300008: Cube_002
+    2300010: Cube_003
+    2300012: Cube_008
+    2300014: Cube_019
+    2300016: gniazdo
+    2300018: gniazdo_00
+    2300020: kafelki_um
+    2300022: szafka
+    2300024: umywalka
+    2300026: umywalka_0
+    3300000: bateria_u1
+    3300002: bateria_um
+    3300004: blat
+    3300006: Cube
+    3300008: Cube_002
+    3300010: Cube_003
+    3300012: Cube_008
+    3300014: Cube_019
+    3300016: gniazdo
+    3300018: gniazdo_00
+    3300020: kafelki_um
+    3300022: szafka
+    3300024: umywalka
+    3300026: umywalka_0
+    4300000: Cube_008
+    4300002: Cube_019
+    4300004: kafelki_um
+    4300006: bateria_um
+    4300008: bateria_u1
+    4300010: gniazdo_00
+    4300012: gniazdo
+    4300014: szafka
+    4300016: Cube
+    4300018: blat
+    4300020: Cube_003
+    4300022: Cube_002
+    4300024: umywalka_0
+    4300026: umywalka
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
